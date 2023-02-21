@@ -9,8 +9,7 @@ window.addEventListener('load', () => {
   let long;
   let lat;
   //let forecastEl = document.getElementsByClassName("forecast");
-  
-      // Storing Longitude and Latitude in variables
+  // Storing Longitude and Latitude in variables
 
       long = -93.557442;
       lat = 41.358047;
